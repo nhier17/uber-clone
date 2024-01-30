@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View,SafeAreaView, Image } from 'react-native'
 import React from 'react'
-
 import NavOptions from '../components/NavOptions'
 
 
 const HomeScreen = () => {
+  
   return (
     <SafeAreaView className='bg-white h-full'>
     <View className='p-5'>
